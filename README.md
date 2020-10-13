@@ -73,8 +73,7 @@
 
 
 ## 💻 최종 실행 화면
-![실행화면](https://user-images.githubusercontent.com/68583697/95819191-65bf7600-0d60-11eb-9d81-a8620b9f7112.png)
-
+![실행화면](https://user-images.githubusercontent.com/68583697/95819463-06159a80-0d61-11eb-9dd5-a71b62acf154.png)
 
 
 
